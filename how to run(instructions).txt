@@ -1,0 +1,38 @@
+⚙️ How to Run the Project
+
+Clone the repository (or download as ZIP)
+
+git clone https://github.com/mohdmudassirkhan76/Predicting-Crowd-Levels-in-Religious-Places
+
+
+Install dependencies
+Make sure you have Python 3.8+ installed. Then run:
+
+pip install -r requirements.txt
+
+
+Run the Python script
+
+python main.py
+
+
+Dataset
+The project uses main.2 - Sheet1.csv which is already included in this repository.
+Make sure the CSV file is in the same folder as main.py.
+
+Models
+
+Pre-trained models (classification_model.joblib, regression_model.joblib) are included.
+
+You can retrain them automatically by running the script.
+
+Outputs
+
+The script will print predictions.
+
+Visualizations (scatter plots, graphs) will pop up using Matplotlib/Seaborn.
+
+🙌 Author
+mohd mudassir khan
+
+https://github.com/mohdmudassirkhan76
